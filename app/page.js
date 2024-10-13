@@ -1,9 +1,10 @@
 import Image from "next/image";
-
+import SignUp from "./sign-up/page";
+import Signin from "./sign-in/page";
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <h1>Hello World, RemakeWaste</h1>
+    <main className="flex min-h-screen">
+      <SignUp />
     </main>
   );
 }
