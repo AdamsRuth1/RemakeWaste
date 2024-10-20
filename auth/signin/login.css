@@ -1,0 +1,10 @@
+.loginbg{
+    background-image: url('/asset/img/siginin.svg');
+    background-position: top right;
+    background-size: cover;
+    height:1100px;
+    background-repeat: no-repeat;
+    object-fit:cover;
+    
+    
+}
