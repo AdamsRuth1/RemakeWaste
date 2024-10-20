@@ -1,5 +1,5 @@
 import React from 'react';
-import Input from './Input'; // Assuming you have the reusable Input component
+import Input from './input'; // Assuming you have the reusable Input component
 
 const PhoneNumberInput = ({ countryCode, setCountryCode }) => {
   return (

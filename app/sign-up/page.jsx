@@ -2,11 +2,11 @@
 import React, { useState } from "react";
 import Password from "./password";
 import Image from "next/image";
-import Rectangle from "../../public/Rectangle 11.png";
-import Logo from "../../public/RemakeWaste.png";
-import Input from "./Input";
+import Rectangle from "./../../public/Rectangle 11.png";
+import Logo from "./../../public/ReMakeWaste.png";
+import Input from "./input";
 import PhoneNumberInput from "./phoneNumber";
-import Button from './Button'; 
+import Button from './button'; 
 import Link from "next/link";
 import Google from "../../public/flat-color-icons_google.png";
 

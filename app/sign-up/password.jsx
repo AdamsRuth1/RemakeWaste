@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Input from './Input';
+import Input from './input';
 const PasswordInput = () => {
   const [password, setPassword] = useState('');
   const [confirmPassword, setConfirmPassword] = useState('');
